@@ -5,6 +5,7 @@
     "config:base",
     ":combinePatchMinorReleases",
     ":pinDependencies",
+    ":prConcurrentLimitNone",
     ":semanticCommitScopeDisabled"
   ],
   "ignoreDeps": ["@types/node"],
