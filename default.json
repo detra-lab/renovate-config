@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "addLabels": ["scope :: chore :gear:", "status :: needs review :mag:"],
+  "addLabels": ["scope :: chore ⚙️", "status :: needs review 🔎"],
   "extends": [
     "config:base",
     ":combinePatchMinorReleases",
